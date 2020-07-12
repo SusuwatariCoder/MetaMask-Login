@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
+    <img src="https://github.com/SusuwatariCoder/MetaMask-Login/blob/master/img/logo.d1d2d5c7.png?raw=true">
     <HelloWorld msg="MetaMask开发实例"/>
   </div>
 </template>
